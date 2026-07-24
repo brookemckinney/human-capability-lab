@@ -55,7 +55,7 @@ The complete framework is available in the dedicated Relational Wonder repositor
 Add repository link here:
 
 ```text
-https://github.com/YOUR-USERNAME/relational-wonder
+https://github.com/brookemckinney/relational-wonder
 ```
 
 ## Status
